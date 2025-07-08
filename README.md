@@ -102,13 +102,7 @@
   <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=saipuneeth2706&theme=tokyonight" width="340px" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saipuneeth2706&theme=tokyonight&utcOffset=+8.0" width="340px" />
-  </div>
-
-  <!-- Wakatime Stats  -->
-   <div style="margin-bottom: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=saipuneeth2706&layout=compact&theme=tokyonight&hide_border=true" width="680px" />
-   </div>
-  
+  </div>  
 </div>
 
 <!-- Language and Tools -->
