@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on email client chat application for mobile<br>👯 I’m looking to collaborate on idk<br>🤝 I’m looking for help with Freelynk<br>🌱 I’m currently learning frontend development<br>💬 Ask me about technologiaaa<br>⚡ Fun fact
+🔭 I’m currently working on email client chat application for mobile<br>👯 I’m looking to collaborate on ntg rn<br>🤝 I’m looking for help with Freelynk<br>🌱 I’m currently learning frontend development<br>💬 Ask me about technologiaaa<br>⚡ Fun fact
 
 
 # 💻 Tech Stack:
