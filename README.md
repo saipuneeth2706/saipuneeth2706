@@ -1,24 +1,216 @@
-# 💫 About Me:
-🔭 I’m currently working on email client chat application for mobile<br>👯 I’m looking to collaborate on ntg rn<br>🤝 I’m looking for help with Freelynk<br>🌱 I’m currently learning frontend development<br>💬 Ask me about technologiaaa<br>⚡ Fun fact i use arch btw
+  <a href="https://github.com/Etriii">
+    <img src="https://img.shields.io/github/followers/Etriii?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/Etriii?tab=repositories">
+    <img src="https://img.shields.io/badge/🌟%20Star%20My%20Repos-Etriii-blueviolet" alt="Star My Repos" />
+  </a>
+  <a href="https://github.com/Etriii">
+    <img src="https://komarev.com/ghpvc/?username=Etriii&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/Etriii">
+    <img src="https://img.shields.io/github/last-commit/Etriii/Etriii?color=green" alt="Last Commit" />
+  </a>
+  <a href="https://github.com/Etriii">
+    <img src="https://img.shields.io/badge/Check%20My-Code-blue?style=flat&logo=github" alt="Check My Code" />
+  </a>
+</p>
+
+![MASTER-HEAD](./assets/api_animated_gif.gif)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EF7BB&width=850&height=40&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Alex%2C+Thanks+for+visiting!;If+you+like+my+work%2C+consider+giving+my+repos+a+%E2%AD%90+%E2%80%94+it+really+helps!)](https://git.io/typing-svg)
+<img src="./assets/border_separator.gif">
+
+<div align="center">
+  <h3>Profile Info</h3>
+  <kbd>
+     <div align="center">
+         <p>
+       <br>
+         <strong>Contact me</strong>
+       <br>
+       <br>
+         <a href="mailto:alexarnaizaparece@gmail.com">
+            <img src="https://skillicons.dev/icons?i=gmail"  width="auto" height="auto"/>
+          </a>
+           <a href="https://github.com/Etriii">
+            <img src="https://skillicons.dev/icons?i=github"  width="auto" height="auto"/>
+          </a>
+          <a href="https://www.linkedin.com/in/alex-aparecejr-529669369">
+            <img src="https://skillicons.dev/icons?i=linkedin"  width="auto" height="auto"/>
+          </a>
+         </p>
+     </div>
+   </kbd>
+  <kbd>
+     <div align="center">
+         <p>
+       <br> 
+         <strong>Profile Views</strong>
+       <br>
+       <br>
+           <img src="https://profile-counter.glitch.me/Etriii/count.svg" width="350px" />
+         </p>
+     </div>
+   </kbd>
+   <kbd>
+     <div align="center">
+         <p>
+       <br>
+         <strong>Followers Count</strong>
+       <br>
+       <br>
+       <br>
+          <img src="https://img.shields.io/github/followers/Etriii?label=Followers&style=social" alt="followers-count" width="150px"> 
+       <br>
+       <br>
+         </p>
+     </div>
+  </kbd>
+</div>
+
+<br>
+<div align="center">
+  <img src="./assets/terminal.gif" />
+</div>
+<img src="./assets/border_separator.gif">
+
+<!-- Github Stats -->
+<div align="center">
+
+  | Top Languages | Trophies |
+  | --- | --- |
+  | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Etriii&layout=compact&theme=tokyonight&hide_border=true&langs_count=20" width="315px"/> | <img src="https://github-profile-trophy.vercel.app/?username=Etriii&theme=tokyonight&column=4&no-frame=true&margin-w=10&margin-h=10" width="315px"/> |
+  
+  <h3>Github Stats</h3>
+
+  <!-- Profile Summary and Streak -->
+  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Etriii&theme=tokyonight" width="680px" />
+  </div>
+
+  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;"/>
+    <img src="https://streak-stats.demolab.com?user=Etriii&theme=tokyonight&hide_border=true" width="680px" />
+  </div>
+
+  <!-- Language Stats -->
+  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Etriii&theme=tokyonight" width="340px" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Etriii&theme=tokyonight" width="340px" />
+  </div>
+
+  <!-- Activity Stats -->
+  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Etriii&theme=tokyonight" width="340px" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Etriii&theme=tokyonight&utcOffset=+8.0" width="340px" />
+  </div>
+
+  <!-- Wakatime Stats  -->
+   <div style="margin-bottom: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Etriii&layout=compact&theme=tokyonight&hide_border=true" width="680px" />
+   </div>
+  
+</div>
+
+<!-- Language and Tools -->
+
+<div align="center">
+  <h3>Technologies and Tools</h3>
+
+  <kbd>
+    <div align="center">
+      <p>
+        <br>
+        <strong>Programming Languages</strong>
+        <br>
+        <hr width="675">
+        <br>
+        
+  [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,js,ts,py,dart,php,java,bash&perline=10)](https://skillicons.dev)
+      </p>
+    </div>
+  </kbd>
+
+  <kbd>
+    <div align="center">
+      <p>
+        <br>
+        <strong>Libraries, Frameworks & Databases</strong>
+        <br>
+        <hr width="675">
+        <br>
+        
+  [![My Skills](https://skillicons.dev/icons?i=react,vue,flutter,angular,nextjs,laravel,fastapi,bootstrap,tailwind,vite,supabase,mysql,postgres,dynamodb&perline=10)](https://skillicons.dev)
+      </p>
+    </div>
+  </kbd>
+
+  <kbd>
+    <div align="center">
+      <p>
+        <br>
+        <strong>DevOps & Cloud</strong>
+        <br>
+        <hr width="675">
+        <br>
+        
+  [![My Skills](https://skillicons.dev/icons?i=github,aws,gcp,githubactions,cloudflare,azure,vercel&perline=10)](https://skillicons.dev)
+      </p>
+    </div>
+  </kbd>
+
+  <kbd>
+    <div align="center">
+      <p>
+        <br>
+        <strong>Operating Systems, Platforms & Networks</strong>
+        <br>
+        <hr width="675">
+        <br>
+        
+  [![My Skills](https://skillicons.dev/icons?i=arch,kali,linux,ubuntu,windows,discord,github,linkedin,instagram,stack-overflow&perline=10)](https://skillicons.dev)
+      </p>
+    </div>
+  </kbd>
+
+  <kbd>
+    <div align="center">
+      <p>
+        <br>
+        <strong>IDEs & Code Editors, Testing & Monitoring</strong>
+        <br>
+        <hr width="675">
+        <br>
+        
+  [![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,visualstudio,eclipse,idea,postman&perline=10)](https://skillicons.dev)
+      </p>
+    </div>
+  </kbd>
+
+  <kbd>
+    <div align="center">
+      <p>
+        <br>
+        <strong>Design & Creative Tools, Build Tools & Package Managers</strong>
+        <br>
+        <hr width="675">
+        <br>
+        
+  [![My Skills](https://skillicons.dev/icons?i=figma,photoshop,npm&perline=10)](https://skillicons.dev)
+      </p>
+    </div>
+  </kbd>
+
+</div>
 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Nim](https://img.shields.io/badge/nim-%23FFE953.svg?style=for-the-badge&logo=nim&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=saipuneeth2706&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=saipuneeth2706&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saipuneeth2706&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="./assets/border_separator.gif">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=saipuneeth2706&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🌟 Enjoying My Projects?
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+If you find my work helpful or interesting, please consider **starring my repositories** or **following me on GitHub** — it really motivates me to keep building and sharing! 😊
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=saipuneeth2706&limit=5&theme=dark&combine_all_yearly_contributions=true)
+👉 [View All My Repositories](https://github.com/Etriii?tab=repositories)  
+👉 [Follow Me on GitHub](https://github.com/Etriii)
 
----
-[![](https://visitcount.itsvg.in/api?id=saipuneeth2706&icon=0&color=0)](https://visitcount.itsvg.in)
+Thanks for your support! 💖
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
