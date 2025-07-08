@@ -1,16 +1,16 @@
-  <a href="https://github.com/Etriii">
-    <img src="https://img.shields.io/github/followers/Etriii?label=Followers&style=social" alt="GitHub Followers" />
+  <a href="https://github.com/saipuneeth2706">
+    <img src="https://img.shields.io/github/followers/saipuneeth2706?label=Followers&style=social" alt="GitHub Followers" />
   </a>
-  <a href="https://github.com/Etriii?tab=repositories">
-    <img src="https://img.shields.io/badge/🌟%20Star%20My%20Repos-Etriii-blueviolet" alt="Star My Repos" />
+  <a href="https://github.com/saipuneeth2706?tab=repositories">
+    <img src="https://img.shields.io/badge/🌟%20Star%20My%20Repos-saipuneeth2706-blueviolet" alt="Star My Repos" />
   </a>
-  <a href="https://github.com/Etriii">
-    <img src="https://komarev.com/ghpvc/?username=Etriii&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://github.com/saipuneeth2706">
+    <img src="https://komarev.com/ghpvc/?username=saipuneeth2706&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
-  <a href="https://github.com/Etriii">
-    <img src="https://img.shields.io/github/last-commit/Etriii/Etriii?color=green" alt="Last Commit" />
+  <a href="https://github.com/saipuneeth2706">
+    <img src="https://img.shields.io/github/last-commit/saipuneeth2706/saipuneeth2706?color=green" alt="Last Commit" />
   </a>
-  <a href="https://github.com/Etriii">
+  <a href="https://github.com/saipuneeth2706">
     <img src="https://img.shields.io/badge/Check%20My-Code-blue?style=flat&logo=github" alt="Check My Code" />
   </a>
 </p>
@@ -32,7 +32,7 @@
          <a href="mailto:alexarnaizaparece@gmail.com">
             <img src="https://skillicons.dev/icons?i=gmail"  width="auto" height="auto"/>
           </a>
-           <a href="https://github.com/Etriii">
+           <a href="https://github.com/saipuneeth2706">
             <img src="https://skillicons.dev/icons?i=github"  width="auto" height="auto"/>
           </a>
           <a href="https://www.linkedin.com/in/alex-aparecejr-529669369">
@@ -48,7 +48,7 @@
          <strong>Profile Views</strong>
        <br>
        <br>
-           <img src="https://profile-counter.glitch.me/Etriii/count.svg" width="350px" />
+           <img src="https://profile-counter.glitch.me/saipuneeth2706/count.svg" width="350px" />
          </p>
      </div>
    </kbd>
@@ -60,7 +60,7 @@
        <br>
        <br>
        <br>
-          <img src="https://img.shields.io/github/followers/Etriii?label=Followers&style=social" alt="followers-count" width="150px"> 
+          <img src="https://img.shields.io/github/followers/saipuneeth2706?label=Followers&style=social" alt="followers-count" width="150px"> 
        <br>
        <br>
          </p>
@@ -79,34 +79,34 @@
 
   | Top Languages | Trophies |
   | --- | --- |
-  | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Etriii&layout=compact&theme=tokyonight&hide_border=true&langs_count=20" width="315px"/> | <img src="https://github-profile-trophy.vercel.app/?username=Etriii&theme=tokyonight&column=4&no-frame=true&margin-w=10&margin-h=10" width="315px"/> |
+  | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saipuneeth2706&layout=compact&theme=tokyonight&hide_border=true&langs_count=20" width="315px"/> | <img src="https://github-profile-trophy.vercel.app/?username=saipuneeth2706&theme=tokyonight&column=4&no-frame=true&margin-w=10&margin-h=10" width="315px"/> |
   
   <h3>Github Stats</h3>
 
   <!-- Profile Summary and Streak -->
   <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Etriii&theme=tokyonight" width="680px" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saipuneeth2706&theme=tokyonight" width="680px" />
   </div>
 
   <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;"/>
-    <img src="https://streak-stats.demolab.com?user=Etriii&theme=tokyonight&hide_border=true" width="680px" />
+    <img src="https://streak-stats.demolab.com?user=saipuneeth2706&theme=tokyonight&hide_border=true" width="680px" />
   </div>
 
   <!-- Language Stats -->
   <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Etriii&theme=tokyonight" width="340px" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Etriii&theme=tokyonight" width="340px" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saipuneeth2706&theme=tokyonight" width="340px" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saipuneeth2706&theme=tokyonight" width="340px" />
   </div>
 
   <!-- Activity Stats -->
   <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Etriii&theme=tokyonight" width="340px" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Etriii&theme=tokyonight&utcOffset=+8.0" width="340px" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=saipuneeth2706&theme=tokyonight" width="340px" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saipuneeth2706&theme=tokyonight&utcOffset=+8.0" width="340px" />
   </div>
 
   <!-- Wakatime Stats  -->
    <div style="margin-bottom: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Etriii&layout=compact&theme=tokyonight&hide_border=true" width="680px" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=saipuneeth2706&layout=compact&theme=tokyonight&hide_border=true" width="680px" />
    </div>
   
 </div>
@@ -209,8 +209,8 @@
 
 If you find my work helpful or interesting, please consider **starring my repositories** or **following me on GitHub** — it really motivates me to keep building and sharing! 😊
 
-👉 [View All My Repositories](https://github.com/Etriii?tab=repositories)  
-👉 [Follow Me on GitHub](https://github.com/Etriii)
+👉 [View All My Repositories](https://github.com/saipuneeth2706?tab=repositories)  
+👉 [Follow Me on GitHub](https://github.com/saipuneeth2706)
 
 Thanks for your support! 💖
 
