@@ -35,7 +35,7 @@
            <a href="https://github.com/saipuneeth2706">
             <img src="https://skillicons.dev/icons?i=github"  width="auto" height="auto"/>
           </a>
-          <a href="https://www.linkedin.com/in/alex-aparecejr-529669369">
+          <a href="https://www.linkedin.com/in/saipuneethreddypally/">
             <img src="https://skillicons.dev/icons?i=linkedin"  width="auto" height="auto"/>
           </a>
          </p>
@@ -154,7 +154,7 @@
 
   <kbd>
     <div align="center">
-      <p>
+      <p>oo
         <br>
         <strong>Operating Systems, Platforms & Networks</strong>
         <br>
