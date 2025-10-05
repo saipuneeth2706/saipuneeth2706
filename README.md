@@ -69,9 +69,9 @@
 </div>
 
 <br>
-#<div align="center">
-#  <img src="./assets/terminal.comment" />
-#</div>
+<!--<div align="center">
+  <img src="./assets/terminal.comment" />
+</div> -->
 <img src="./assets/border_separator.gif">
 
 <!-- Github Stats -->
