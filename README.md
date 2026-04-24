@@ -27,10 +27,10 @@ _You can define me a..._
 </picture>
 </p>
 
-[]: # (<div align="center">
+<!--<div align="center">
 <picture>
 
 <img width="550" alt="" title="My GitHub Stats" src="https://github-readme-stats-zeta-nine-71.vercel.app/api?username=saipuneeth2706&cache_seconds=86400&include_all_commits=true&show_icons=true&count_private=true&bg_color=45,3b9ef5,0444ba&border_color=01c6ff&title_color=081020&icon_color=081020&text_color=081020&rank_icon=percentile&custom_title=My+GitHub+Stats"/>
 
 </picture>
-</div>)
+</div> -->
