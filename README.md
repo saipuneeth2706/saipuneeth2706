@@ -14,7 +14,7 @@
 
 _You can define me a..._
 
-- 💻 **proud tech nerd** — a final-year CS student who genuinely loves computers and is always passionate about learning new technologies
+- 💻 **tech nerd** — a final-year CS student who genuinely loves computers and is always passionate about learning new technologies
 - ✨ **ui/ux & full-stack creator** — crafts smooth, beautiful web experiences using tools from Figma to Next.js and animation libraries like GSAP
 - 🐧 **linux enthusiast** — experienced in navigating distros from Arch to Ubuntu, and isn't afraid to brainstorm a custom meme distro just for fun
 - 🦀 **rust explorer** — actively diving into systems programming and building robust projects like single-threaded web servers
